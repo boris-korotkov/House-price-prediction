@@ -5,4 +5,4 @@ The Jupyter Notebook: https://github.com/boris-korotkov/House-price-prediction/b
 
 A brief PowerPoint presentation with key insights: https://github.com/boris-korotkov/House-price-prediction/blob/main/House%20Price%20Prediction.pdf
 
-Toolset: Python, including sklearn
+`Toolset: Python, including sklearn`
